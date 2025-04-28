@@ -17,7 +17,7 @@ I'm @paoxiaomooo. Welcome to my GitHub! 👨‍💻
 
 ⚡ Fun fact: I love solving tricky problems and brewing coffee at midnight. ☕️
 🏆 Achievements:
-- ICPC East Asia Regional Silver Medalist
-- Earned the "Pair Extraordinaire" badge for co-authoring commits on merged pull requests
+- 🥈 ICPC East Asia Regional Silver Medalist
+- 🤝 Earned the "Pair Extraordinaire" badge for co-authoring commits on merged pull requests
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=paoxiaomooo&show_icons=true&theme=radical)
