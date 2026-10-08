@@ -1,6 +1,5 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=paoxiaomooo)
 
-# Hello, World! 🌏
 
 I'm @paoxiaomooo. Welcome to my GitHub! 👨‍💻  
 🔭 I'm currently working on exciting projects using Java, C++, Python, and more.  
